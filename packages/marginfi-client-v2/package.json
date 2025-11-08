@@ -1,6 +1,6 @@
 {
-  "name": "@quartz-labs/forks/marginfi-client-v2",
-  "version": "6.1.4",
+  "name": "@quartz-labs/marginfi-client-v2",
+  "version": "6.1.4-fork",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
