@@ -1,5 +1,5 @@
 {
-  "name": "@mrgnlabs/marginfi-client-v2",
+  "name": "@quartz-labs/forks/marginfi-client-v2",
   "version": "6.1.4",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
